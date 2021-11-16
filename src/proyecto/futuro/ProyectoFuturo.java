@@ -24,7 +24,7 @@ public class ProyectoFuturo {
         return "Ideal. Trabajas los contenidos en casa.";
         }
 
-        private static void main(String [] args){
+        public static void main(String [] args){
         System.out.println("Estudiante = "+args[0]);
         System.out.println(veredicto(args[1],args[2]));
 
