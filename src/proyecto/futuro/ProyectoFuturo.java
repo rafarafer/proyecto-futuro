@@ -6,7 +6,7 @@ package proyecto.futuro;
 
 /**
  *
- * @author Paik
+ * @author Rafa Illescas Nieves ha realizado este ejercicio
  */
 public class ProyectoFuturo {
 
